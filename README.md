@@ -13,14 +13,6 @@ Basta entrar na pasta `interface` e usar o comando `make all` e em seguida  `./t
 ![image](https://user-images.githubusercontent.com/80075307/217111304-fbf8f9f7-5f75-4f4b-8587-d9ec38282c1b.png)
 
 
-## Cameras 
-
-`Camera 1` ->![camera 1 (eye)- 998](https://user-images.githubusercontent.com/80075307/217111493-5e992611-8dad-40eb-86ab-3ae44359ca8d.PNG)
-
-`Camera 2` -> Não implementei corretamente
-
-`Camera 3` ->![camera 3 - 20998](https://user-images.githubusercontent.com/80075307/217111501-55ead7a2-3170-4bac-933a-48fbc73fb9be.PNG)
-
 ## Interface do jogo 
 
 `foco de luz na arena`
